@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 from IPython.display import JSON
 
-api_key = 'AIzaSyC8yfGrWzD4lqqTb4YlzQ83IZ0t09bOdms'
+api_key = 'api key here'
 channel_ids = ['UC16niRr50-MSBwiO3YDb3RA', 'UC16niRr50-MSBwiO3YDb3RA']
 
 youtube = build(
